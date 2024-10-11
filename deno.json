@@ -27,5 +27,6 @@
 
     "dayjs": "https://deno.land/x/deno_dayjs@v0.5.0/mod.ts",
     "bcrypt": "https://deno.land/x/bcrypt@v0.4.1/mod.ts"
-  }
+  },
+  "nodeModulesDir": "auto"
 }
